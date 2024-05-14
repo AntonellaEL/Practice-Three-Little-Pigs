@@ -1,0 +1,27 @@
+body{
+    background-image: url(imagen/photo-7752792_1280.webp);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 80%;
+    height: 80%;
+    display:flex;
+    flex-direction: column;
+    margin-left: 10%;
+
+}
+
+header{
+    font-size: 120px;
+    color: pink;
+    text-align: center;
+}
+
+section {
+    font-size: 30px;
+    color:white;
+    margin:0;
+    padding: 0%;
+  
+}
